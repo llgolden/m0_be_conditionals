@@ -60,21 +60,21 @@ puts "Is number_students less than or equal to 21?", number_students <= 21
 # Make sure YOU can explain it that way!
 
 puts 4 < 9
-#YOU DO: Explain.
+#YOU DO: Check if 4 is less than 9; true
 
 books = 3
 puts 4 < books
-# YOU DO: Explain.
+# YOU DO: Check if there are more than 4 books; false
 
 friends = 6
 siblings = 2
 puts friends > siblings
-# YOU DO: Explain.
+# YOU DO: Check if there are more friends than siblings; true
 
 attendees = 9
 meals = 8
 puts attendees != meals
-# YOU DO: Explain.
+# YOU DO: Check if the number of attendees does not equal the number of meals
 
 
 #-------------------
